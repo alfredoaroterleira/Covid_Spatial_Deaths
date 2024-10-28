@@ -1,5 +1,5 @@
 # Análisis espacial sobre muertes de Covid-19 a nivel nacional 
-## Trabajo Colaborativo: Alfredo Aro Terleira - Romina Loayza Gaitan)
+## Trabajo Colaborativo: Alfredo Aro Terleira - Romina Loayza Gaitan
 
 
 ## 🗂️ Contenido
